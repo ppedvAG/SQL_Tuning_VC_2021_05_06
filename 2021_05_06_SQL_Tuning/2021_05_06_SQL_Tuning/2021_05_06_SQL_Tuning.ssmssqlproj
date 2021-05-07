@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="2021_05_06_SQL_Tuning">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="WINDOWS10-LH2\SQL2019DEVELOPER:DOM-PPA01\lh2">
+          <Created>2021-05-07T17:10:20.2030984+02:00</Created>
+          <Type>SQL</Type>
+          <Server>WINDOWS10-LH2\SQL2019DEVELOPER</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="001_Komforteinstellungen_SSMS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>001_Komforteinstellungen_SSMS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="002_Theorie.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>002_Theorie.sql</FullPath>
+        </FileNode>
+        <FileNode Name="003_Partitionierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>003_Partitionierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="004_Indizes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>004_Indizes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="005_MAXDOP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>005_MAXDOP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="006_Komprimierung.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>006_Komprimierung.sql</FullPath>
+        </FileNode>
+        <FileNode Name="007_Query_Store.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>007_Query_Store.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Datenmenge_generieren.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WINDOWS10-LH2\SQL2019DEVELOPER:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WINDOWS10-LH2\SQL2019DEVELOPER</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Datenmenge_generieren.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
